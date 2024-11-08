@@ -1,5 +1,6 @@
 # Глина
-
+ A new type system for various uses 
+ 
 ## Data Types
  
 ### Unit type
